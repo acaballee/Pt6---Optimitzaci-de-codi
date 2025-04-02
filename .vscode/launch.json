@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "TresEnRatlla",
+            "request": "launch",
+            "mainClass": "org.entdes/org.entdes.TresEnRatlla",
+            "projectName": "refactoring"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
